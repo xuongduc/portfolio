@@ -1,5 +1,5 @@
-# 🚀 Dự án: Mô hình phân loại rác thải bằng AI và IoT  
-
+# Portfolio - Phương Xương Đức
+#  Dự án: Mô hình phân loại rác thải bằng AI và IoT  
 **Mục tiêu:** Xây dựng hệ thống phân loại rác bằng camera và AI.  
 **Công nghệ:** Python (OpenCV, YOLOv8), Pygame (GUI), Arduino + L298 (điện tử).  
 **Vai trò:**  
