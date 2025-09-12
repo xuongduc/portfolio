@@ -8,7 +8,8 @@
 - Thiết kế và lắp ráp mạch Arduino + module L298 để điều khiển cơ cấu cơ khí.  
 **Kết quả:**  
 - Mô hình hoạt động thời gian thực, nhận diện rác hữu cơ/vô cơ chính xác ~90%.  
-- [📺 Video demo](https://youtu.be/xxxx)  
+<iframe src="https://drive.google.com/file/d/1-wqpGlxZnTiOzT2HyFA41_EjQ1HWaNsS/preview" 
+        width="640" height="480" allow="autoplay"></iframe>
 
 ---
 
