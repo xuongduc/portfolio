@@ -27,8 +27,8 @@ description: "Các dự án STEM tiêu biểu"
 - Điều khiển servo gạt cà chua chín sang khay riêng.  
 **Kết quả:**  
 - Hệ thống chạy ổn định, có thể dừng băng chuyền chính xác, phân loại theo màu thành công.  
-- [📺 Video demo](https://drive.google.com/xxxx)  
-
+<iframe src="https://drive.google.com/file/d/1_bU1zOZZ7Gc4fuHFyMl2LXb0AtOJSCoH/preview" 
+        width="640" height="480" allow="autoplay"></iframe> 
 ---
 
 # 🚗 Dự án: Xe tự hành Arduino  
@@ -40,4 +40,4 @@ description: "Các dự án STEM tiêu biểu"
 - Tích hợp thư viện vào Arduino IDE để học sinh dễ sử dụng.  
 **Kết quả:**  
 - Học sinh có thể lập trình xe chạy theo lộ trình mà không cần hiểu chi tiết mạch điện tử.  
-- [📂 Code trên GitHub](https://github.com/ban/xe-tu-hanh)  
+ 
