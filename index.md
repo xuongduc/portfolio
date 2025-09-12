@@ -1,4 +1,7 @@
-# Portfolio - Phương Xương Đức
+---
+title: "Portfolio - Phương Xương Đức"
+description: "Các dự án STEM tiêu biểu"
+---
 #  Dự án: Mô hình phân loại rác thải bằng AI và IoT  
 **Mục tiêu:** Xây dựng hệ thống phân loại rác bằng camera và AI.  
 **Công nghệ:** Python (OpenCV, YOLOv8), Pygame (GUI), Arduino + L298 (điện tử).  
