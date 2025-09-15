@@ -43,36 +43,36 @@ description: "Các dự án STEM tiêu biểu"
 **Ví dụ:**
 - Để xe đi thẳng, thay vì nhập:
 ```cpp
-// Khai báo chân điều khiển L298
-int IN1 = 4;
-int IN2 = 5;
-int IN3 = 6;
-int IN4 = 7;
+        // Khai báo chân điều khiển L298
+        int IN1 = 4;
+        int IN2 = 5;
+        int IN3 = 6;
+        int IN4 = 7;
 
-void setup() {
-  pinMode(IN1, OUTPUT);
-  pinMode(IN2, OUTPUT);
-  pinMode(IN3, OUTPUT);
-  pinMode(IN4, OUTPUT);
-}
+        void setup() {
+        pinMode(IN1, OUTPUT);
+        pinMode(IN2, OUTPUT);
+        pinMode(IN3, OUTPUT);
+        pinMode(IN4, OUTPUT);
+        }
 
-void loop() {
-  // Xe đi thẳng (cả 2 động cơ cùng quay tiến)
-  digitalWrite(IN1, HIGH);
-  digitalWrite(IN2, LOW);
-  digitalWrite(IN3, HIGH);
-  digitalWrite(IN4, LOW);
-  
-}
+        void loop() {
+        // Xe đi thẳng (cả 2 động cơ cùng quay tiến)
+        digitalWrite(IN1, HIGH);
+        digitalWrite(IN2, LOW);
+        digitalWrite(IN3, HIGH);
+        digitalWrite(IN4, LOW);
+        
+        }
 ```
 - Học sinh co thể nhập:
 
 ```cpp
-#include "robot.h"
-Robot xe(4, 5,  6, 7);
+        #include "robot.h"
+        Robot xe(4, 5,  6, 7);
 
-void setup(){}
-void loop(){
-        xe.di_thang();
-}
+        void setup(){}
+        void loop(){
+                xe.di_thang();
+        }
 ```
