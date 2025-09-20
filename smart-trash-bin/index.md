@@ -6,8 +6,6 @@ description: "Smart Trash Bin"
 
 # Smart Trash Bin
 
-A compact README for the Smart Trash Bin project — suitable for portfolio and README.md in a repo.
-
 ---
 
 ## Overview
@@ -45,6 +43,8 @@ I was responsible for:
 - Arduino (basic C++)
 
 ---
+
+## Demonstration Video
 
 <iframe src="https://drive.google.com/file/d/1-wqpGlxZnTiOzT2HyFA41_EjQ1HWaNsS/preview" 
         width="640" height="480" allow="autoplay"></iframe>
